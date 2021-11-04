@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 A basic counter app created using react-redux to manage state changes.
-Auth section doesn't need login credentials
+Auth section doesn't need login credentials.
 
 ## Available Scripts
 
